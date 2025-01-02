@@ -1,3 +1,4 @@
+(NOTE: Project Under Rapid Advanced Developments, frontend code will soon be pushed)
 ## AIJobMatch Platform
 
 AIJobMatch is a voice-based job search platform powered by Generative AI (GenAI) and Retrieval-Augmented Generation (RAG). The platform enables users to search for jobs using voice queries, upload resumes, and explore personalized job recommendations.
